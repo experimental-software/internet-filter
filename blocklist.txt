@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: Opinionated Internet filters
+! Last modified: 
+! Expires: 1 days
+! Homepage: 
+!
+##.notifications
+##.ProfileCardStats-stat
+###related
+##.cn-fundraising
+stackexchange.com###sidebar
+serverfault.com###sidebar
+stackoverflow.com###sidebar
