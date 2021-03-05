@@ -12,3 +12,4 @@
 stackexchange.com###sidebar
 serverfault.com###sidebar
 stackoverflow.com###sidebar
+##.achievements-button-item
