@@ -12,4 +12,6 @@
 stackexchange.com###sidebar
 serverfault.com###sidebar
 stackoverflow.com###sidebar
+##.-badges
+##.js-header-rep
 ##.achievements-button-item
