@@ -17,3 +17,4 @@ stackoverflow.com###sidebar
 ##.achievements-button-item
 youtube.com##.ytd-rich-grid-renderer
 youtube.com###secondary-inner
+github.com##.social-count
