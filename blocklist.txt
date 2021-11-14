@@ -15,6 +15,7 @@ stackoverflow.com###sidebar
 superuser.com###sidebar
 ##.-badges
 ##.js-header-rep
+stackoverflow.com###review-button
 ##.review-button-item
 ##.achievements-button-item
 ##.iconReviewQueue
