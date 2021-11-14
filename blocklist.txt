@@ -16,6 +16,7 @@ superuser.com###sidebar
 ##.-badges
 ##.js-header-rep
 ##.achievements-button-item
+##.iconReviewQueue
 youtube.com##.ytd-rich-grid-renderer
 youtube.com###secondary-inner
 github.com##.social-count
