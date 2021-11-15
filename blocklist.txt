@@ -15,10 +15,11 @@ stackoverflow.com###sidebar
 superuser.com###sidebar
 ##.-badges
 ##.js-header-rep
-stackoverflow.com###review-button
 ##.review-button-item
 ##.achievements-button-item
 ##.iconReviewQueue
 youtube.com##.ytd-rich-grid-renderer
 youtube.com###secondary-inner
 github.com##.social-count
+stackoverflow.com###review-button
+stackoverflow.com##.\-link.js-gps-track.js-review-button._danger-indicator
