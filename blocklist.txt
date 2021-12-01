@@ -23,4 +23,4 @@ youtube.com###secondary-inner
 github.com##.social-count
 stackoverflow.com###review-button
 stackoverflow.com##.\-link.js-gps-track.js-review-button._danger-indicator
-dev.to##div.crayons-card__header
+dev.to##div.crayons-card--secondary
