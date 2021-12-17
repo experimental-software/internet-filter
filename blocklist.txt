@@ -23,4 +23,8 @@ youtube.com###secondary-inner
 github.com##.social-count
 stackoverflow.com###review-button
 stackoverflow.com##.\-link.js-gps-track.js-review-button._danger-indicator
+stackoverflow.com##.-badges
+stackoverflow.com##.badgecount
+stackoverflow.com##.js-header-rep
+stackoverflow.com###review-button
 dev.to##a.crayons-link--contentful
