@@ -26,5 +26,7 @@ stackoverflow.com##.\-link.js-gps-track.js-review-button._danger-indicator
 stackoverflow.com##.-badges
 stackoverflow.com##.badgecount
 stackoverflow.com##.js-header-rep
+stackoverflow.com##.js-achievements-button
+stackoverflow.com##.js-inbox-button
 stackoverflow.com###review-button
 dev.to##a.crayons-link--contentful
