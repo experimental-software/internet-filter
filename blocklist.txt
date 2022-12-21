@@ -29,4 +29,5 @@ stackoverflow.com##.js-header-rep
 stackoverflow.com##.js-achievements-button
 stackoverflow.com##.js-inbox-button
 stackoverflow.com###review-button
+stackoverflow.com##.icon-winterbash
 dev.to##a.crayons-link--contentful
