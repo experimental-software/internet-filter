@@ -30,4 +30,13 @@ stackoverflow.com##.js-achievements-button
 stackoverflow.com##.js-inbox-button
 stackoverflow.com###review-button
 stackoverflow.com##.icon-winterbash
+
 dev.to##a.crayons-link--contentful
+
+.ezoic-ad
+plantuml.com###div-gpt-ad-plantuml_com-box-1-0
+plantuml.com##.ezoic-ad
+plantuml.com##iframe
+||plantuml.com/en13.webp
+
+||plantuml.com/united120.webp
