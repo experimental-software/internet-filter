@@ -30,8 +30,11 @@ stackoverflow.com##.js-achievements-button
 stackoverflow.com##.js-inbox-button
 stackoverflow.com###review-button
 stackoverflow.com##.icon-winterbash
+
 wetransfer.com##.texture
 wetransfer.com##img
+creatives.wetransfer.net##img
+creatives.wetransfer.net##video
 
 dev.to##a.crayons-link--contentful
 
